@@ -1,0 +1,102 @@
+# depslib dependency file v1.0
+1602678508 source:c:\users\bruno\desktop\laboratorio-1\parcial.1-lab\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+
+1602687294 source:c:\users\bruno\desktop\laboratorio-1\parcial.1-lab\autos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+	"autos.h"
+
+1602678508 c:\users\bruno\desktop\laboratorio-1\parcial.1-lab\validaciones.h
+	<stdio.h>
+
+1602683116 c:\users\bruno\desktop\laboratorio-1\parcial.1-lab\autos.h
+	<stdio.h>
+
+1602684770 source:c:\users\bruno\desktop\laboratorio-1\parcial.1-lab\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"autos.h"
+	"trabajos.h"
+
+1602684770 c:\users\bruno\desktop\laboratorio-1\parcial.1-lab\trabajos.h
+	<stdio.h>
+
+1602687294 source:c:\users\bruno\desktop\laboratorio-1\parcial.1-lab\trabajos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+	"autos.h"
+	"trabajos.h"
+
+1603136495 source:c:\users\bruno\desktop\laboratorio-1\tps\parcial.1-lab\autos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+	"autos.h"
+
+1602678508 c:\users\bruno\desktop\laboratorio-1\tps\parcial.1-lab\validaciones.h
+	<stdio.h>
+
+1603224637 c:\users\bruno\desktop\laboratorio-1\tps\parcial.1-lab\autos.h
+	<stdio.h>
+
+1603287738 source:c:\users\bruno\desktop\laboratorio-1\tps\parcial.1-lab\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"autos.h"
+	"trabajos.h"
+	"informes.h"
+	"hardcod.h"
+
+1603224949 c:\users\bruno\desktop\laboratorio-1\tps\parcial.1-lab\trabajos.h
+	<stdio.h>
+
+1603284010 source:c:\users\bruno\desktop\laboratorio-1\tps\parcial.1-lab\trabajos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+	"autos.h"
+	"trabajos.h"
+
+1603151586 source:c:\users\bruno\desktop\laboratorio-1\tps\parcial.1-lab\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+
+1603288894 source:c:\users\bruno\desktop\laboratorio-1\tps\parcial.1-lab\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+	"autos.h"
+	"trabajos.h"
+	"informes.h"
+
+1603283605 c:\users\bruno\desktop\laboratorio-1\tps\parcial.1-lab\informes.h
+	<stdio.h>
+
+1603151679 source:c:\users\bruno\desktop\laboratorio-1\tps\parcial.1-lab\hardcod.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+	"autos.h"
+	"trabajos.h"
+	"informes.h"
+	"hardcod.h"
+
+1603288470 c:\users\bruno\desktop\laboratorio-1\tps\parcial.1-lab\hardcod.h
+	<stdio.h>
+
